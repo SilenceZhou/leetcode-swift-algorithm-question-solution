@@ -23,10 +23,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		21FC7C8B228E40BD00F24D35 /* [9]-PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[9]-PalindromeNumber.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B620801E228DD1B8009EF268 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6208021228DD1B8009EF268 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		B6208028228DD1C5009EF268 /* [1]-TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[1]-TwoSum.playground"; sourceTree = "<group>"; };
-		B6208029228DD1C5009EF268 /* [7]-ReverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[7]-ReverseInteger.playground"; sourceTree = "<group>"; };
+		B6208028228DD1C5009EF268 /* [1]-TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[1]-TwoSum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B6208029228DD1C5009EF268 /* [7]-ReverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[7]-ReverseInteger.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B620802A228DD1C5009EF268 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,6 +63,7 @@
 			children = (
 				B6208028228DD1C5009EF268 /* [1]-TwoSum.playground */,
 				B6208029228DD1C5009EF268 /* [7]-ReverseInteger.playground */,
+				21FC7C8B228E40BD00F24D35 /* [9]-PalindromeNumber.playground */,
 				B620802A228DD1C5009EF268 /* README.md */,
 				B6208021228DD1B8009EF268 /* main.swift */,
 			);
